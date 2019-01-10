@@ -1,0 +1,46 @@
+empty dip
+empty lip
+empty mad
+empty map
+empty mapl
+empty maple
+empty may
+empty pad
+empty pip
+empty pod
+empty pop
+empty sap
+empty sip
+empty slice
+empty slick
+empty spice
+empty stick
+empty stock
+empty build the graph
+*
+empty may mad
+empty map map
+
+empty axe
+empty axi
+empty bxi
+empty cxi
+empty dxi
+empty dli
+empty dlx
+empty dls
+empty cls
+empty clx
+empty build the graph
+*
+empty axe clx
+empty axi cls
+empty axi dli
+empty dli cls
+empty cxi cls
+
+empty aa
+empty ab
+empty bb
+empty build the graph
+*
